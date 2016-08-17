@@ -1,0 +1,9 @@
+{
+  "source": "./src/js",
+  "destination": "./docs",
+  "test": {
+    "type": "mocha",
+    "source": "./test/"
+  },
+  "package": "./package.json"
+}

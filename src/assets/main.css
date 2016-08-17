@@ -1,0 +1,7 @@
+:root {
+  --main-color:white;
+}
+
+body {
+  background: url(../assets/img/holaspirit-icon.png) var(--main-color) no-repeat;
+}
